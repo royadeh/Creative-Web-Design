@@ -2,4 +2,5 @@
 
 [Visit the website](https://poetic-crepe-7640a8.netlify.app/)
 
-![Screenshot of the website](relative-or-absolute-image-path-or-URL)
+![Main Page Screenshot](https://github.com/royadeh/Creative-Web-Design/raw/main/Main%20Page.png)
+
